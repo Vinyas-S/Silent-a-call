@@ -1,0 +1,2 @@
+rootProject.name='SilentCall'
+include ':app'
