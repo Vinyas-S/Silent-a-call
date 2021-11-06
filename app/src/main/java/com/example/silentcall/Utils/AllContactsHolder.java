@@ -10,9 +10,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.ishaandhamija.pesterers.Activities.MainActivity;
-import com.example.ishaandhamija.pesterers.DBUtils.DBHelper;
-import com.example.ishaandhamija.pesterers.R;
+import com.example.silentcall.Activities.MainActivity;
 import com.example.silentcall.DBUtils.DBHelper;
 import com.example.silentcall.R;
 

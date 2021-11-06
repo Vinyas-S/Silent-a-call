@@ -24,12 +24,6 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
-import com.example.ishaandhamija.pesterers.DBUtils.ContactDetails;
-import com.example.ishaandhamija.pesterers.DBUtils.DBHelper;
-import com.example.ishaandhamija.pesterers.Interfaces.OnDelete;
-import com.example.ishaandhamija.pesterers.R;
-import com.example.ishaandhamija.pesterers.Utils.AllContactsAdapter;
 import com.example.silentcall.DBUtils.ContactDetails;
 import com.example.silentcall.DBUtils.DBHelper;
 import com.example.silentcall.Interfaces.OnDelete;
